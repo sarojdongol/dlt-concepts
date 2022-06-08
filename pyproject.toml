@@ -1,11 +1,8 @@
 [tool.poetry]
-name = "dlt-concepts"
+name = "dlt_concepts"
 version = "0.1.0"
 description = "Delta live"
 authors = ["Saroj.Dongol <sdongol@deloitte.com.au>"]
-packages = [
-    { include = "src" },
-]
 
 [tool.poetry.dependencies]
 python = "^3.8"
